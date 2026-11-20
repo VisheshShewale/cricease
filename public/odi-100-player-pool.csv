@@ -1,0 +1,101 @@
+name,role,country,basePrice,note
+Virat Kohli,Batter,IND,0,Top-order batter
+Rohit Sharma,Batter,IND,0,Opening batter
+MS Dhoni,Wicketkeeper,IND,0,Wicketkeeper batter finisher
+AB de Villiers,Batter,SA,0,360-degree middle-order batter
+Jasprit Bumrah,Bowler,IND,0,Right-arm fast
+Mitchell Starc,Bowler,AUS,0,Left-arm express
+Kane Williamson,Batter,NZ,0,Right-hand middle-order batter
+Ben Stokes,All-rounder,ENG,0,Pace all-rounder
+Shakib Al Hasan,All-rounder,BAN,0,Spin all-rounder
+Joe Root,Batter,ENG,0,Middle-order batter
+David Warner,Batter,AUS,0,Aggressive opener
+Chris Gayle,Batter,WI,0,Explosive opener
+Trent Boult,Bowler,NZ,0,Left-arm swing
+Quinton de Kock,Wicketkeeper,SA,0,Aggressive wicketkeeper opener
+Hardik Pandya,All-rounder,IND,0,Pace all-rounder
+Ravindra Jadeja,All-rounder,IND,0,Spin all-rounder
+Shikhar Dhawan,Batter,IND,0,Opening batter
+Shubman Gill,Batter,IND,0,Opening batter
+Shreyas Iyer,Batter,IND,0,Number 4 middle-order batter
+Steve Smith,Batter,AUS,0,Middle-order batter
+Travis Head,Batter,AUS,0,Aggressive opener
+Ross Taylor,Batter,NZ,0,Middle-order batter
+Hashim Amla,Batter,SA,0,Opening batter
+Eoin Morgan,Batter,ENG,0,Middle-order finisher
+Faf du Plessis,Batter,SA,0,Top-order batter
+David Miller,Batter,SA,0,Left-hand finisher
+Daryl Mitchell,Batter,NZ,0,Middle-order batter
+Martin Guptill,Batter,NZ,0,Opening batter
+Jason Roy,Batter,ENG,0,Aggressive opener
+Aaron Finch,Batter,AUS,0,Aggressive opener
+Dawid Malan,Batter,ENG,0,Top-order batter
+Pathum Nissanka,Batter,SL,0,Opening batter
+Rassie van der Dussen,Batter,SA,0,Top-order anchor
+Aiden Markram,Batter,SA,0,Middle-order batter
+Marnus Labuschagne,Batter,AUS,0,Middle-order batter
+Harry Brook,Batter,ENG,0,Middle-order batter
+Devon Conway,Batter,NZ,0,Opening batter
+Charith Asalanka,Batter,SL,0,Middle-order batter
+Glenn Maxwell,All-rounder,AUS,0,Batting all-rounder
+Rachin Ravindra,All-rounder,NZ,0,Batting all-rounder
+Mitchell Marsh,All-rounder,AUS,0,Pace all-rounder
+Chris Woakes,All-rounder,ENG,0,Seam all-rounder
+Angelo Mathews,All-rounder,SL,0,Batting all-rounder
+Azmatullah Omarzai,All-rounder,AFG,0,Pace all-rounder
+Axar Patel,All-rounder,IND,0,Spin all-rounder
+Marco Jansen,All-rounder,SA,0,Left-arm pace all-rounder
+Wanindu Hasaranga,All-rounder,SL,0,Leg-spin all-rounder
+Jason Holder,All-rounder,WI,0,Pace all-rounder
+Mohammad Nabi,All-rounder,AFG,0,Off-spin all-rounder
+Mitchell Santner,All-rounder,NZ,0,Spin all-rounder
+Suresh Raina,All-rounder,IND,0,Batting all-rounder
+Marcus Stoinis,All-rounder,AUS,0,Pace all-rounder
+Moeen Ali,All-rounder,ENG,0,Off-spin all-rounder
+Colin de Grandhomme,All-rounder,NZ,0,Seam all-rounder
+Cameron Green,All-rounder,AUS,0,Pace all-rounder
+Liam Livingstone,All-rounder,ENG,0,Batting all-rounder
+Sam Curran,All-rounder,ENG,0,Left-arm seam all-rounder
+Mehidy Hasan Miraz,All-rounder,BAN,0,Off-spin all-rounder
+Sikandar Raza,All-rounder,ZIM,0,Spin all-rounder
+Washington Sundar,All-rounder,IND,0,Spin all-rounder
+KL Rahul,Wicketkeeper,IND,0,Middle-order wicketkeeper batter
+Jos Buttler,Wicketkeeper,ENG,0,Explosive wicketkeeper finisher
+Heinrich Klaasen,Wicketkeeper,SA,0,Power-hitting wicketkeeper
+Shai Hope,Wicketkeeper,WI,0,Top-order wicketkeeper anchor
+Jonny Bairstow,Wicketkeeper,ENG,0,Aggressive wicketkeeper opener
+Nicholas Pooran,Wicketkeeper,WI,0,Left-hand wicketkeeper batter
+Tom Latham,Wicketkeeper,NZ,0,Middle-order wicketkeeper
+Alex Carey,Wicketkeeper,AUS,0,Left-hand wicketkeeper
+Mushfiqur Rahim,Wicketkeeper,BAN,0,Middle-order wicketkeeper
+Rahmanullah Gurbaz,Wicketkeeper,AFG,0,Aggressive wicketkeeper opener
+Kuldeep Yadav,Bowler,IND,0,Left-arm wrist spin
+Rashid Khan,Bowler,AFG,0,Right-arm leg spin
+Adam Zampa,Bowler,AUS,0,Right-arm leg spin
+Yuzvendra Chahal,Bowler,IND,0,Right-arm leg spin
+Adil Rashid,Bowler,ENG,0,Right-arm leg spin
+Imran Tahir,Bowler,SA,0,Right-arm leg spin
+Ravichandran Ashwin,Bowler,IND,0,Right-arm off spin
+Keshav Maharaj,Bowler,SA,0,Left-arm orthodox
+Maheesh Theekshana,Bowler,SL,0,Mystery off spin
+Mujeeb Ur Rahman,Bowler,AFG,0,Mystery off spin
+Mohammed Shami,Bowler,IND,0,Right-arm seam
+Pat Cummins,Bowler,AUS,0,Right-arm fast
+Josh Hazlewood,Bowler,AUS,0,Right-arm seam
+Kagiso Rabada,Bowler,SA,0,Right-arm fast
+Lasith Malinga,Bowler,SL,0,Slinging death bowler
+Jofra Archer,Bowler,ENG,0,Express fast
+Lockie Ferguson,Bowler,NZ,0,Express fast
+Mohammed Siraj,Bowler,IND,0,Right-arm swing and seam
+Bhuvneshwar Kumar,Bowler,IND,0,Right-arm swing
+Matt Henry,Bowler,NZ,0,Right-arm seam
+Liam Plunkett,Bowler,ENG,0,Middle-overs enforcer
+Mustafizur Rahman,Bowler,BAN,0,Left-arm cutters
+Tim Southee,Bowler,NZ,0,Right-arm swing
+Arshdeep Singh,Bowler,IND,0,Left-arm swing and death
+Mark Wood,Bowler,ENG,0,Express fast
+Lungi Ngidi,Bowler,SA,0,Right-arm fast-medium
+Anrich Nortje,Bowler,SA,0,Express fast
+Dale Steyn,Bowler,SA,0,Express fast
+Alzarri Joseph,Bowler,WI,0,Right-arm fast
+Taskin Ahmed,Bowler,BAN,0,Right-arm fast
