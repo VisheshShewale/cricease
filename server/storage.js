@@ -17,14 +17,14 @@ function supabaseConfig() {
 }
 
 async function supabaseRequest(pathname, options = {}) {
+  const authHeaders = { apikey: remote.key, 'content-type': 'application/json', ...options.headers };
+  // Supabase's current sb_secret_* keys are API keys, not JWTs. Sending one as
+  // a Bearer token makes the gateway reject the request with 401. Legacy
+  // service_role keys are JWTs and can be used for both headers.
+  if (!remote.key.startsWith('sb_secret_')) authHeaders.authorization = `Bearer ${remote.key}`;
   const response = await fetch(`${remote.url}/rest/v1/${pathname}`, {
     ...options,
-    headers: {
-      apikey: remote.key,
-      authorization: `Bearer ${remote.key}`,
-      'content-type': 'application/json',
-      ...options.headers
-    }
+    headers: authHeaders
   });
   if (!response.ok) {
     const detail = await response.text().catch(() => '');
