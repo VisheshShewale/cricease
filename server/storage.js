@@ -26,11 +26,17 @@ async function supabaseRequest(pathname, options = {}) {
     ...options,
     headers: authHeaders
   });
+  const body = await response.text().catch(() => '');
   if (!response.ok) {
-    const detail = await response.text().catch(() => '');
+    const detail = body;
     throw new Error(`Supabase storage request failed (${response.status}). Check the rooms table setup and database environment variables.${detail ? ` ${detail.slice(0, 240)}` : ''}`);
   }
-  return response.status === 204 ? null : response.json();
+  if (!body.trim()) return null;
+  try {
+    return JSON.parse(body);
+  } catch {
+    throw new Error('Supabase storage returned malformed JSON.');
+  }
 }
 
 export async function loadRooms() {
